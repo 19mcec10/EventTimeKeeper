@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EventTimeKeeper</string>
+    <string name="button1">ADD Event</string>
+    <string name="button2">Delete Last Event</string>
+    <string name="button3">Delete All Events</string>
+    <string name="lableText">Enter Event Name:</string>
+    <string name="savebutton">Save</string>
+    <string name="settingButton">Setting</string>
+    <string name="totalNumberHourText">Total Sleeping Hours=</string>
+    <string name="slpeeString">Baby Just Slept For:</string>
+    <string name="totalNumberHourNumber"></string>
+
+    <string-array name="Hours">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>
